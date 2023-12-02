@@ -1,0 +1,4 @@
+#Fri Dec 01 23:10:19 EST 2023
+base.0=/Users/sanjithg/AndroidStudioProjects/calories_calculator_a3/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
